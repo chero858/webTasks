@@ -25,3 +25,11 @@ archiver/.idea
 *.iml
 email/.idea
 email/out
+googleSpreadSheet/.gradle
+googleSpreadSheet/.idea
+googleSpreadSheet/build
+googleSpreadSheet/gradle
+googleSpreadSheet/tokens
+googleSpreadSheet/gradlew
+googleSpreadSheet/gradlew.bat
+googleSpreadSheet/settings.gradle
