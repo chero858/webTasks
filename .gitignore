@@ -23,3 +23,5 @@
 hs_err_pid*
 archiver/.idea
 *.iml
+email/.idea
+email/out
